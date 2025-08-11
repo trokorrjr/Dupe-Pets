@@ -1,4 +1,0 @@
-loadstring(game:HttpGet("https://pastefy.app/wtrzmAs4/raw"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ataturk123/GardenSpawner/refs/heads/main/Spawner.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/invcts923/Grow-a-Garden-Pets/refs/heads/main/Lumin-Hub"))()  
